@@ -11,8 +11,3 @@
 
 ## ⚡ Other Interests
 - 🥊🌊☀️🍕🏋️‍♀️🧘‍♀️
-
-## 🏆 Achievements
-![Achievement 1](https://img.shields.io/badge/Achievement1-Description-yellow)
-![Achievement 2](https://img.shields.io/badge/Achievement2-Description-green)
-![Achievement 3](https://img.shields.io/badge/Achievement3-Description-blue)
