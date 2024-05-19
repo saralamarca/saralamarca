@@ -1,16 +1,18 @@
-### Hi there 👋
+![Banner Image](https://github.com/saralamarca/saralamarca/blob/main/header.png?raw=true)
+# Hi, I'm Sara! 👋
 
-<!--
-**saralamarca/saralamarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/saralamarca)
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 📘 Recent graduate - look forward to learning from other experienced developers and AI enthusiasts.
+- 🐍 I’m learning a whole lot but my main focus is Python programming as a tool for machine learning and AI.
+- 🚀 Passionate about continuously improving my skills - currently improving my skills in C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Other Interests
+- 🥊🌊☀️🍕🏋️‍♀️🧘‍♀️
+
+## 🏆 Achievements
+![Achievement 1](https://img.shields.io/badge/Achievement1-Description-yellow)
+![Achievement 2](https://img.shields.io/badge/Achievement2-Description-green)
+![Achievement 3](https://img.shields.io/badge/Achievement3-Description-blue)
